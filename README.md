@@ -1,26 +1,20 @@
+<br clear="both">
+
 <h2 align="center">Hi 👋! My name is Jonathan Cavallaro and I'm a Programmer and Cyber Security from Italy</h2>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">My educations 🧑‍🎓</h3>
 
 ###
 
-<br clear="both">
-
 <h4 align="left">-💻High Vocational in Thailand about Technology with Business.<br>-💻Vocational in Thailand about Computer Business.<br>-🚀Next is University in Italy</h4>
 
 ###
 
-<br clear="both">
-
 <h3 align="left">My diplomas📜</h3>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">-Update later</h4>
 
@@ -49,12 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" width="92" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="80" width="92" alt="ssh logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JonathanAcc/JonathanAcc/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
