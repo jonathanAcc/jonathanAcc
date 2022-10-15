@@ -74,7 +74,7 @@
 
 ###
 
-<img height="200" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif"  />
+
 
 
 ###
