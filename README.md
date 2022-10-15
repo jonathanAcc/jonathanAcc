@@ -70,7 +70,7 @@
 
 ###
 
-<img height="200" src="https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized-large.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif"  />
 
 ###
 
