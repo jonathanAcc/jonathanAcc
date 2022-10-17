@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">My diplomas📜</h3>
+<h3 align="left">My diplomas and certificates📜</h3>
 
 ###
 
