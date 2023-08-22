@@ -28,7 +28,8 @@
 
 ###
 
-
+<h3 align="left">My skills ⚔🏹</h3>
+<h4 align="left">1️⃣ C++ basic skill</h4>
 
 ###
 
