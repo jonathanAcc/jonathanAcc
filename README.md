@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Jonathan Cavallaro and I'm a Programmer in Java language</h2>
+<h2 align="center">Hi 👋! My name is Jonathan Cavallaro and I'm a Programmer in C++</h2>
 
 ###
 
