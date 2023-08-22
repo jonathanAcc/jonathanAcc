@@ -29,7 +29,17 @@
 ###
 
 <h3 align="left">My skills ⚔🏹</h3>
-<h4 align="left">1️⃣ C++ basic skill</h4>
+<h4 align="left">1️⃣ C++ basic skill.</h4>
+<h4 align="left">2️⃣ Use windows 10.</h4>
+<h4 align="left">3️⃣ Have basic linux system and commands.</h4>
+<h4 align="left">4️⃣ Can use Vim , Visual Studio , VScode.</h4>
+<h4 align="left">5️⃣ Have basic github.</h4>
+<h4 align="left">6️⃣ Basic OOP in C++</h4>
+
+
+
+
+
 
 ###
 
