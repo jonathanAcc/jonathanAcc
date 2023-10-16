@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Jonathan Cavallaro and I'm a Programmer in C++</h2>
+<h2 align="center">Hi 👋! My name is Boonyarid Yangchuai (Jonathan) and I'm a Game developer in Unreal Engine!</h2>
 
 ###
 
