@@ -32,9 +32,10 @@
 <h4 align="left">1️⃣ C++ basic skill.</h4>
 <h4 align="left">2️⃣ Use windows 10.</h4>
 <h4 align="left">3️⃣ Have basic linux system and commands.</h4>
-<h4 align="left">4️⃣ Can use Vim , Visual Studio , VScode.</h4>
+<h4 align="left">4️⃣ Use Unreal engine for game development.</h4>
 <h4 align="left">5️⃣ Have basic github.</h4>
 <h4 align="left">6️⃣ Basic OOP in C++</h4>
+I prefer to work with Visaul Code in Unreal engine.
 
 
 
@@ -44,13 +45,14 @@
 ###
 
 <div align="center">
+
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" height="80" width="92" alt="unreal logo" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" width="92" alt="cpp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="80" width="92" alt="visualstudio logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="80" width="92" alt="windows logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" eight="80" width="92" alt="github logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" eight="80" width="92" alt="linux logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" eight="80" width="92" alt="vim logo"/>
+
           
           
        
