@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">-💻High Vocational in Thailand about Technology with Business.<br>-💻Vocational in Thailand about Computer Business.<br>-🚀Next is University in Italy</h4>
+<h4 align="left">-💻High Vocational in Thailand about Technology with Business.<br>-💻Vocational in Thailand about Computer Business.</h4>
 
 ###
 
