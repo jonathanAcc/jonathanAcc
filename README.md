@@ -29,13 +29,14 @@
 ###
 
 <h3 align="left">My skills ⚔🏹</h3>
-<h4 align="left">1️⃣ C++ basic skill.</h4>
-<h4 align="left">2️⃣ Use windows 10.</h4>
-<h4 align="left">3️⃣ Have basic linux system and commands.</h4>
-<h4 align="left">4️⃣ Use Unreal engine for game development.</h4>
-<h4 align="left">5️⃣ Have basic github.</h4>
-<h4 align="left">6️⃣ Basic OOP in C++</h4>
-I prefer to work with Visaul Code in Unreal engine.
+<h4 align="left">1. C.</h4>
+<h4 align="left">2. Linux</h4>
+<h4 align="left">3. Network.</h4>
+<h4 align="left">4. Redis.</h4>
+<h4 align="left">5. MySql.</h4>
+<h4 align="left">6. Bash.</h4>
+and another like : linux commands line , git , docker.
+
 
 
 
@@ -47,11 +48,13 @@ I prefer to work with Visaul Code in Unreal engine.
 <div align="center">
 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" height="80" width="92" alt="unreal logo" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" width="92" alt="cpp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="80" width="92" alt="visualstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="80" width="92" alt="windows logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" eight="80" width="92" alt="github logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="80" width="92" alt="c logo" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="80" width="92" alt="nvim logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="80" width="92" alt="arch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="80" width="92" alt="redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="80" width="92" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="80" width="92" alt="bash logo" />
+  
 
           
           
