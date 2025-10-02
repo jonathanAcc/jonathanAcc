@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Boonyarid Yangchuai (Jonathan) and I'm a Game developer in Unreal Engine!</h2>
+<h2 align="center">Hi 👋! My name is Boonyarid Yangchuai (Jonathan) and I'm a programmer.</h2>
 
 ###
 
